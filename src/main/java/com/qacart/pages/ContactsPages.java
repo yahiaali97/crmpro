@@ -24,5 +24,4 @@ public class ContactsPages extends Base {
     @FindBy(css = "[value=\"Previous\"]")
     WebElement previous;
 
-
 }
